@@ -35,7 +35,7 @@
 // })
 
 // client.login(
-//     "MTE4ODQ5NzgzNTk4MTc5OTUyNA.GZLuaz.yWzBluoZwgeB9KEQaiAK6hLIiYwwQ-4oy7G2yc"
+//     "LOGIN_ID"
 // );
 
 const liveStockPrice = require('live-stock-price');
